@@ -46,6 +46,21 @@
 
 ---
 
+## 🧪 AI编程实战项目（2026年6月新增）
+
+> 从企业级实战到入门练手，覆盖 **Java全栈 → Vue 3 → Next.js → Node.js → Cordova** 多种技术栈。
+
+| 项目 | 简介 | 技术栈 | 质量评分 |
+|:-----|:-----|:-------|:--------:|
+| 🏋️ [**AI程序员技术练兵场**](https://github.com/tangwenqing123/ai-training-camp) | AI编程训练平台：用户注册登录、选择挑战、AI自动评分、排行榜、积分系统 | Java 17·Spring Boot 3·LangChain4j·Vue 3·Element Plus·JWT·BCrypt·Pinia | ⭐⭐⭐⭐ |
+| 🤖 [**AI编程助手**](https://github.com/tangwenqing123/ai-chat-assistant) | AI聊天助手：对话/结构化输出/工具调用/RAG知识库问答/对话管理 | Java 17·Spring Boot 3.1·LangChain4j·SQLite·DeepSeek·JPA | ⭐⭐⭐½ |
+| 🏃 [**跑步打卡**](https://github.com/tangwenqing123/running-tracker) | 跑步记录管理App：模拟登录、CRUD、排行榜、周期目标设定+进度条 | Next.js·Tailwind CSS·TypeScript·ESLint | 🟡 开发中 |
+| 🎨 [**AI创作者画廊**](https://github.com/tangwenqing123/ai-creator-gallery) | AI图文创作分享社区：注册/登录/JWT认证、作品上传/点赞、作品广场 | Node.js·Express·MongoDB·JWT·HTML/CSS | 📄 设计阶段 |
+| 😂 [**表情包生成器**](https://github.com/tangwenqing123/meme-generator) | 移动端表情包工具：拍照/选图 → 模板 → 文字编辑 → emoji贴纸 → 导出 | HTML5·Canvas·Cordova·JavaScript | 📄 设计阶段 |
+| 🐳 [**DevOps实践**](https://github.com/tangwenqing123/devops-practice) | 7个入门练习：个人主页/H5、Todo应用、记账、财务管理、Docker部署 | HTML/CSS·Node.js·Express·Docker·Git | 🟢 已完成 |
+
+---
+
 ## 💼 职业经历
 
 | 时间 | 方向 | 核心项目 |
