@@ -58,6 +58,7 @@
 | 🎨 [**AI创作者画廊**](https://github.com/tangwenqing123/ai-creator-gallery) | AI图文创作分享社区：注册/登录/JWT认证、作品上传/点赞、作品广场 | Node.js·Express·MongoDB·JWT·HTML/CSS | 📄 设计阶段 |
 | 😂 [**表情包生成器**](https://github.com/tangwenqing123/meme-generator) | 移动端表情包工具：拍照/选图 → 模板 → 文字编辑 → emoji贴纸 → 导出 | HTML5·Canvas·Cordova·JavaScript | 📄 设计阶段 |
 | 🐳 [**DevOps实践**](https://github.com/tangwenqing123/devops-practice) | 7个入门练习：个人主页/H5、Todo应用、记账、财务管理、Docker部署 | HTML/CSS·Node.js·Express·Docker·Git | 🟢 已完成 |
+| 🎓 [**AI 虚拟导师**](https://github.com/tangwenqing123/virtual-ai-tutor) | LangGraph+DeepSeek个性化教学：输入主题生成大纲+逐课教学+Web界面 | Python·LangGraph·FastAPI·DeepSeek·marked.js·highlight.js | 🟢 已完成 |
 
 ---
 
