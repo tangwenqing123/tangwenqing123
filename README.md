@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Milvus-00A1FF?style=for-the-badge&logo=milvus&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROCm-76B900?style=for-the-badge&logo=amd&logoColor=white" />
 </p>
 
 ---
@@ -37,6 +38,7 @@
 | 📚 **RAG 知识库系统** | 365本得到听书PDF → 语音转录(Whisper)→ ColPali图文检索 → BM25+Cross-Encoder混合 → Neo4j图谱 → FastAPI服务 | Whisper·ColPali·Milvus·Neo4j·LangChain | 🟢 运行中 |
 | 🧩 **Khoj AI知识中枢** | AI-native知识管理平台：BGE-M3 Embedding → Milvus向量库 → Neo4j知识图谱 → 多源Content Plugin(RSS/Jina) → D3.js可视化 | Khoj·LangGraph·Neo4j·BGE-M3·Milvus | 🟡 迭代中 |
 | 🏭 **NLP 情感分类系统** | ChnSentiCorp数据集，BERT/ERNIE 3.0/PERT + LoRA微调，F1=0.95 SOTA，FastAPI+ONNX部署 | PyTorch·BERT·ERNIE·LoRA·ONNX·vLLM | 🟢 已完成 |
+| 🎓 **Gemma 4 AI教学助手** | AMD ROCm云GPU微调Gemma 4 E4B-it(4B)，4,087条AI教材QA→LoRA r=16→GGUF Q4_K_M(5GB)→Ollama本地部署 | ROCm·Gemma4·LoRA·llama.cpp·Ollama·ModelScope | 🟢 已部署 |
 
 <p align="center">
   <a href="https://github.com/tangwenqing123/longxia_tang">
@@ -66,7 +68,8 @@
 
 | 时间 | 方向 | 核心项目 |
 |------|------|---------|
-| 2025.12 — 至今 | 🧠 **AI Agent** | LangGraph+A2A+MCP 7-Agent协作平台 · Khoj知识中枢 |
+| 2026.06 — 至今 | 🎓 **大模型微调** | Gemma 4 E4B-it LoRA微调(ROCm) · GGUF量化 · Ollama部署 |
+| 2025.12 — 2026.05 | 🧠 **AI Agent** | LangGraph+A2A+MCP 7-Agent协作平台 · Khoj知识中枢 |
 | 2025.07 — 2025.11 | 📚 **RAG 系统** | 365本听书PDF RAG知识库(Whisper+ColPali+Milvus+Neo4j) |
 | 2025.03 — 2025.06 | 🏭 **NLP 工程** | ChnSentiCorp情感分类(ERNIE 3.0 F1=0.95 SOTA) |
 | 2022.10 — 2024.02 | 📊 **NLP 开发** | NLP相关工作积累 |
@@ -80,8 +83,9 @@
 |------|------|
 | 🤖 **Agent框架** | LangGraph · A2A协议 · MCP · Function Call · ReAct |
 | 🧠 **Agent平台** | Dify · Coze · Hermes Agent |
-| 🔧 **模型微调** | LoRA · QLoRA · GLM-4-9B-Chat · BERT/ERNIE LoRA |
+| 🔧 **模型微调** | LoRA · QLoRA · GLM-4-9B-Chat · Gemma 4 E4B-it · BERT/ERNIE LoRA |
 | 💡 **推理增强** | CoT · ToT · HyDE · ReAct |
+| 🎯 **训练部署** | ROCm · ModelScope · llama.cpp GGUF · Ollama |
 
 ### RAG & 知识工程
 | 领域 | 技术 |
@@ -117,7 +121,7 @@
 |------|------|
 | 🧠 **AI Agent系统开发** | Multi-Agent协作、MCP Server集成、Function Call工作流、Agent平台搭建 |
 | 📚 **RAG知识库系统** | 文档知识库、多模态RAG、混合检索、知识图谱构建 |
-| 🔧 **模型微调与部署** | LLM + LoRA微调、BERT/ERNIE序列任务、ONNX部署优化 |
+| 🔧 **模型微调与部署** | LLM + LoRA微调(ROCm/NVIDIA)、GGUF量化、BERT/ERNIE序列任务、Ollama/vLLM部署 |
 | 🌐 **全栈开发** | 小程序+管理后台+API、AI应用前后端、数据管道 |
 | 🐳 **Docker部署/运维** | Milvus/Neo4j/Redis等服务编排、RAGFlow/Dify部署调优 |
 
