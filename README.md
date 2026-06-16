@@ -55,7 +55,7 @@
 | 🧩 [**Khoj AI知识中枢**](https://github.com/tangwenqing123/khoj-knowledge-hub) | AI-native知识管理平台：BGE-M3 Embedding → Milvus向量库 → Neo4j知识图谱 → 多源Content Plugin(RSS/Jina) → D3.js可视化 | Khoj·LangGraph·Neo4j·BGE-M3·Milvus | 🟡 迭代中 |
 | 🏭 [**NLP 情感分类系统**](https://github.com/tangwenqing123/nlp-sentiment-classifier) | ChnSentiCorp数据集，BERT/ERNIE 3.0/PERT + LoRA微调，F1=0.95 SOTA，FastAPI+ONNX部署 | PyTorch·BERT·ERNIE·LoRA·ONNX·vLLM | 🟢 已完成 |
 | 🎓 [**Gemma 4 AI教学助手**](https://github.com/tangwenqing123/gemma4-ai-teacher) | AMD ROCm云GPU微调Gemma 4 E4B-it(4B)，4,087条AI教材QA→LoRA r=16→GGUF Q4_K_M(5GB)→Ollama本地部署 | ROCm·Gemma4·LoRA·llama.cpp·Ollama·ModelScope | 🟢 已部署 |
-| 🎓 [**AI 虚拟导师**](https://github.com/tangwenqing123/virtual-ai-tutor) | LangGraph+DeepSeek个性化教学：输入主题生成大纲+逐课教学+Web界面 | Python·LangGraph·FastAPI·DeepSeek | 🟢 已完成 |
+| 🎓 [**AI 虚拟导师**](https://github.com/tangwenqing123/virtual-ai-tutor) | 7-Agent多智能体教学系统：知识图谱+间隔复习+错误检测+学习报告+Dashboard，对标Duolingo Birdbrain | Python·LangGraph·FastAPI·DeepSeek·SQLite·Docker | 🟢 已完成 |
 
 ---
 
