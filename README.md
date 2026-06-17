@@ -49,6 +49,7 @@
 
 | 项目 | 简介 | 技术栈 | 状态 |
 |------|------|--------|:----:|
+| 🧠 [**心晴助手**](https://github.com/tangwenqing123/mood-assistant) | AI心理测评：AI对话+PHQ-9/GAD-7/SDS/SAS量表+危机干预，Docker一键部署 | FastAPI·DeepSeek·Streamlit·Docker | 🟢 已部署 |
 | 🌟 [**LightRAG 实践**](https://github.com/tangwenqing123/lightrag-practice) | 知识图谱 RAG：DeepSeek+BGE-M3，5种查询模式，Docker一键部署 | LightRAG·DeepSeek·BGE-M3·Ollama·Docker | 🟢 已部署 |
 | 🧠 [**AI-Native Agent 平台**](https://github.com/tangwenqing123/longxia_tang) | 7-Agent协作系统：LangGraph Supervisor + A2A协议 + MCP Server集成，GLM-4-9B-Chat LoRA微调(97%准确率) | LangGraph·A2A·MCP·Redis·GLM·LoRA | 🟢 可演示 |
 | 📚 [**RAG 知识库系统**](https://github.com/tangwenqing123/rag-knowledge-base) | 365本听书PDF → 语音转录(Whisper)→ ColPali图文检索 → BM25+Cross-Encoder混合 → Neo4j图谱 → FastAPI服务 | Whisper·ColPali·Milvus·Neo4j·LangChain | 🟢 运行中 |
