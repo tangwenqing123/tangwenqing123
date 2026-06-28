@@ -77,6 +77,19 @@
 | 📱 [**小程序开发**](https://github.com/tangwenqing123/mini-program-dev) | 微信小程序开发项目 |
 | 📚 [**学习笔记**](https://github.com/tangwenqing123/study-notes) | 学习笔记与总结 |
 | 🛠️ [**实践项目**](https://github.com/tangwenqing123/practice-projects) | 各种实践项目代码 |
+| 🤖 [**AIGC项目**](https://github.com/tangwenqing123/aigc-project) | AIGC项目 |
+| 🎤 [**AI翻唱**](https://github.com/tangwenqing123/ai-vocal-cover) | AI翻唱项目 |
+| 🧠 [**Open Interpreter复现**](https://github.com/tangwenqing123/open-interpreter-repro) | Open Interpreter复现项目 |
+| 📚 [**万维钢知识库**](https://github.com/tangwenqing123/wanweigang-kb) | 万维钢知识库 |
+| 🎓 [**教育系统**](https://github.com/tangwenqing123/education-system) | 教育系统项目 |
+| 🗣️ [**流畅说**](https://github.com/tangwenqing123/fluent-speech) | 流畅说语音项目 |
+| 📝 [**内容创作平台**](https://github.com/tangwenqing123/content-creation-platform) | 内容创作平台构建 |
+| 🍱 [**食堂订餐系统**](https://github.com/tangwenqing123/canteen-ordering-system) | 食堂订餐小程序 |
+| 📊 [**数据资源分析**](https://github.com/tangwenqing123/data-resource-analysis) | 数据资源分析 |
+| 🧘 [**心理咨询**](https://github.com/tangwenqing123/psychological-counseling) | 心理咨询系统 |
+| 🤖 [**个人Agent系统**](https://github.com/tangwenqing123/personal-agent-system) | 个人Agent系统 |
+| ✅ [**待办事项App**](https://github.com/tangwenqing123/todo-app-electron) | 待办事项Electron应用 |
+| 🔄 [**螺旋BKT引擎**](https://github.com/tangwenqing123/spiral-bkt-engine) | 螺旋BKT评估引擎 |
 
 ---
 
