@@ -60,6 +60,26 @@
 
 ---
 
+## 📂 近期推送
+
+| 仓库 | 说明 |
+|------|------|
+| 🛒 [**电商AI助手**](https://github.com/tangwenqing123/ecommerce-ai-assistant) | 电商AI助手项目 |
+| 🧪 [**微调数据与脚本**](https://github.com/tangwenqing123/finetune-data-scripts) | 模型微调数据集与训练脚本 |
+| 🎯 [**自己核心项目**](https://github.com/tangwenqing123/core-projects) | 个人核心项目代码 |
+| 🤖 [**AI应用开发**](https://github.com/tangwenqing123/ai-app-dev) | AI应用开发学习与实践代码 |
+| 📖 [**AI编程入门**](https://github.com/tangwenqing123/ai-programming-intro) | AI编程入门介绍与示例代码 |
+| 🔧 [**个人工具开发**](https://github.com/tangwenqing123/personal-tools-dev) | 个人效率工具与脚本 |
+| 🏢 [**企业级AI实战**](https://github.com/tangwenqing123/enterprise-ai-practice) | 企业级AI编程实战项目 |
+| 🌐 [**全栈应用开发**](https://github.com/tangwenqing123/fullstack-app-dev) | 全栈应用开发学习项目 |
+| 📝 [**原创项目视角**](https://github.com/tangwenqing123/original-project-perspective) | 原创项目视角与思考 |
+| 🎵 [**短视频项目**](https://github.com/tangwenqing123/short-drama) | 短视频/短剧项目 |
+| 📱 [**小程序开发**](https://github.com/tangwenqing123/mini-program-dev) | 微信小程序开发项目 |
+| 📚 [**学习笔记**](https://github.com/tangwenqing123/study-notes) | 学习笔记与总结 |
+| 🛠️ [**实践项目**](https://github.com/tangwenqing123/practice-projects) | 各种实践项目代码 |
+
+---
+
 ## 💼 职业经历
 
 | 时间 | 公司 | 职位 | 核心方向 |
